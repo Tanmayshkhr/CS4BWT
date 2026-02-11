@@ -24,3 +24,4 @@ p.then((value) => {
 });
 
 console.log("6) End (JS keeps running; then will run later)");
+console.log("updaye")
